@@ -1,0 +1,11 @@
+jane    529K 05 Feb 1971 delete-this.mov
+john    243K 26 Jul 1962 system.dll
+root    748K 25 Jan 1963 listing.h
+bob      666 13 Dec 2013 moonlight-sonata.wav
+alice   565M 11 Jun 1985 temporary.txt
+admin   673M 16 Sep 2007 picture.gif
+jane      2M 24 Nov 1994 important.xml
+john     240 28 Feb 2000 song.wav
+brent   1.9M 20 Oct 1994 news_important.json
+root    200K 15 Sep 1932 learning.cpp
+jane     102 12 May 1999 victory.py
