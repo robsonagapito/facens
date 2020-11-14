@@ -1,0 +1,4 @@
+https://www.kaggle.com/imdevskp/comparing-pandemics-epidemics-outbreaks
+https://www.kaggle.com/syphax93/coronavirus-disease-2019-covid19?select=time-series-19-covid-combined.csv
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+https://www.kaggle.com/elloaguedes/panorama-do-covid-19-no-brasil
