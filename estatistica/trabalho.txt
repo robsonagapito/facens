@@ -1,0 +1,26 @@
+TCC - estatística
+
+Colocar o Bloxpot
+Não colocar gráfico de pizza.
+Colocar gráfico de barras... utilizar idade... e percentual
+
+no projeto ter:
+
+Objetivo
+Premissa
+
+23/01/2021
+grupo de 3 pessoas.
+
+
+Base de Dados
+
+ibge
+antaq
+cetesb
+ana
+anp
+unica
+world bank data
+datamar
+enem
