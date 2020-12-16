@@ -1,0 +1,4 @@
+treatment	response
+double	25
+nothing	60
+single	34

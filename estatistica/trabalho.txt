@@ -1,4 +1,4 @@
-TCC - estatística
+﻿TCC - estatística
 
 Colocar o Bloxpot
 Não colocar gráfico de pizza.
@@ -13,6 +13,8 @@ Premissa
 grupo de 3 pessoas.
 
 
+Apresentação de 15 minutos.
+
 Base de Dados
 
 ibge
@@ -24,3 +26,21 @@ unica
 world bank data
 datamar
 enem
+
+
+Qual a base
+gráfico de histograma
+blockspot
+
+
+
+obrigatórios 05/12/2020:
+Grafico
+Atividade Avaliativa
+Base de dados
+
+
+
+http://minhabiblioteca.facens.br/LoginFacens.aspx
+RA
+CPF... 
